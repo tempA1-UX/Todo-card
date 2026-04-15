@@ -9,13 +9,13 @@ It started as a simple static card (Stage 0) and was enhanced into a fully inter
 
 ## 🌐 Live Demo
 
-🔗 https://your-live-url.vercel.app
+🔗 [live URL](https://fd-task.netlify.app/)
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/yourusername/todo-card
+🔗 [Github repo](https://github.com/tempA1-UX/Todo-card)
 
 ---
 
